@@ -1,5 +1,0 @@
-Name    Age
-Shreyas  10
-Shyam    20
-Shriya   30
-tenma    40
